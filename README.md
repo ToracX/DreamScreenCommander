@@ -16,11 +16,11 @@ Example: "python dreamscreen.py -i 192.168.1.2 -m 0"
 Showing help screen -h
 Setting IP address: -i <ip address>
 
-Changing Modes: -m <number>
-Changing Brightness: -b <number>
-Changing Sources: -s <number>
-Changing Scenes: -a <number>
-Changing color: -c <0-255 0-255 0-255>
+-Changing Modes: -m <number>
+-Changing Brightness: -b <number>
+-Changing Sources: -s <number>
+-Changing Scenes: -a <number>
+-Changing color: -c <0-255 0-255 0-255>
   
 
 
