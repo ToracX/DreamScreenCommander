@@ -4,7 +4,7 @@ Python script that allows you to control your DreamScreen Ambient TV device with
 While this can be used in many ways where you can have your computer call the script upon events and programatically enter the option values.
 
 You can hard code the IP so that you dont have to use the -i option everytime. 
-Uncomment the following 2 lines in the script:
+Uncomment the following 2 lines in the script:          
 #IP = "192.168.1.2"
 #endpoint = (IP, 8888)
 
