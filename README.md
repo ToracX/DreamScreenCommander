@@ -13,8 +13,8 @@ Uncomment the following 2 lines in the script:
 
 #### Example: "python dreamscreen.py -i 192.168.1.2 -m 0"
 
-#### Showing help screen -h
-#### Setting IP address: -i <ip address>
+Showing help screen -h
+Setting IP address: -i <ip address>
 
 
 - Changing Modes: -m <number>
