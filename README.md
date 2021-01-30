@@ -26,8 +26,8 @@ Setting IP address: -i <ip address>
   
 
 
-Ideas for usage
-*Automatically adjust Dreamscreen brightness based on room ambient brightness
-*Control your Dreamscreen inputs with a Harmony remote control - no phone needed!
-*Use Dreamscreen as a light with with your smart home instance and a raspberry pi
-*Do Voice UI (Alexa-styled) control of the Dreamscreen (Windows Speech Marcos, Jasper)
+## Ideas for usage
+* Automatically adjust Dreamscreen brightness based on room ambient brightness
+* Control your Dreamscreen inputs with a Harmony remote control - no phone needed!
+* Use Dreamscreen as a light with with your smart home instance and a raspberry pi
+* Do Voice UI (Alexa-styled) control of the Dreamscreen (Windows Speech Marcos, Jasper)
