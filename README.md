@@ -32,3 +32,6 @@ Setting IP address: -i <ip address>
 * Control your Dreamscreen inputs with a Harmony remote control - no phone needed!
 * Use Dreamscreen as a light with with your smart home instance and a raspberry pi
 * Do Voice UI (Alexa-styled) control of the Dreamscreen (Windows Speech Marcos, Jasper)
+
+
+If you have any questions, ideas or improvements please fill in an issue form and I will look at it as soon as possible.
