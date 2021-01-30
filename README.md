@@ -1,4 +1,4 @@
-Overview
+#Overview
 
 Python script that allows you to control your DreamScreen Ambient TV device with python.
 While this can be used in many ways where you can have your computer call the script upon events and programatically enter the option values.
@@ -9,18 +9,20 @@ Uncomment the following 2 lines in the script:
 #endpoint = (IP, 8888)
 
 
-How to use the script:
+##How to use the script:
 
-Example: "python dreamscreen.py -i 192.168.1.2 -m 0"
+###Example: "python dreamscreen.py -i 192.168.1.2 -m 0"
+
 
 Showing help screen -h
 Setting IP address: -i <ip address>
 
--Changing Modes: -m <number>
--Changing Brightness: -b <number>
--Changing Sources: -s <number>
--Changing Scenes: -a <number>
--Changing color: -c <0-255 0-255 0-255>
+
+- Changing Modes: -m <number>
+- Changing Brightness: -b <number>
+- Changing Sources: -s <number>
+- Changing Scenes: -a <number>
+- Changing color: -c <0-255 0-255 0-255>
   
 
 
