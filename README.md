@@ -15,6 +15,7 @@ Uncomment the following 2 lines in the script:
 
 
 Showing help screen -h
+
 Setting IP address: -i <ip address>
 
 
