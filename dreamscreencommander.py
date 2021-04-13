@@ -30,13 +30,18 @@ def setSource(source):
 def setBrightness(brightness):
     payload=[brightness]
     buildAndSendPacket(3,2, payload)
-
+    
 def setColor(color):
+    setAmbience(0)
     red, green, blue = color.split(' ', 2)
     setMode(3)
     payload=[int(red), int(green), int(blue)]
     buildAndSendPacket(3, 5, payload)
 
+def setAmbience(ambience):
+    payload=[ambience]
+    buildAndSendPacket(3,8, payload)
+    
 def buildAndSendPacket(upperC, lowerC, payload):
     resp=[]
     resp.append(252)
